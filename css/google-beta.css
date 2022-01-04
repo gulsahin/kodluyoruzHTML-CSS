@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.justify-center{
+    display: flex;
+    justify-content: center;
+}
+.justifyitems-center{
+    display: flex;
+    justify-items: center;
+}
+
+.label{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+.search-input{
+    padding-bottom: 5px;
+
+}
+.grey-card{
+    background-color: #E7E9EB;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.search-button{
+    border: 1px solid grey;
+    border-radius: 4px;
+}
+.search-button:hover{
+    background-color: grey;
+}
+
+.green-card{
+    background-color: #C4FCEF ;
+    width: 33%;
+    height: 200px;
+    margin-right: 1%;
+}
+.last-green-card{
+    background-color: #C4FCEF ;
+    width: 32%;
+    height: 200px;
+}
+
+.float-left{
+    float: left;
+}
+.links{
+    width: 100%;
+    text-align: center;
+}
+
+
+
+
