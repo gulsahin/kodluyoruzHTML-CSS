@@ -1,0 +1,27 @@
+.class1{
+    color:blue;
+}
+
+.class2{
+    font-weight: 800;
+}
+
+.class1.class3{
+    color: red;
+}
+
+.class1 .class3{
+    color: greenyellow;
+}
+
+.aa , .red{
+    font-style: italic;
+}
+
+p span{
+    font-size: 30px;
+}
+
+p>span{
+    text-decoration: underline;
+}

@@ -1,0 +1,48 @@
+:root{
+    --Very-Dark-Blue: hsl(234, 12%, 34%);
+
+}
+*{
+   margin: 0;
+   padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    font-family: 'Poppins';
+}
+.carousel-img{
+    height: 600px ;
+}
+
+/* .carouse .carousel-item {
+    height: 300px ;
+  }
+  
+  .carousel-item  img {
+      position: absolute ;
+      top: 0;
+      left: 0;
+      min-height: 300px !;
+  } */
+.cards{
+    margin: 1.5rem 0 3rem 0;
+}
+.header h2{
+    text-align: center;
+    color: var(--Very-Dark-Blue);
+    margin-bottom: 1.4rem;
+    text-transform: uppercase;
+    
+}
+.product img{
+    opacity: 0.7;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    text-align: center;
+    background-color:whitesmoke;
+}
