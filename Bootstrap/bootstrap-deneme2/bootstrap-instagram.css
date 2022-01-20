@@ -1,3 +1,8 @@
-.search-input{
-    padding-left: 500px !important;
-}
+
+.storyphoto {
+    width: 50px !important;
+    height: 50px !important;
+    border-radius: 50%;
+    border: 2px solid rgb(238, 39, 82);
+    margin-right: 7px;
+  }
