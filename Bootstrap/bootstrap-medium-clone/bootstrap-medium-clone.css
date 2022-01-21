@@ -1,0 +1,65 @@
+
+.navbar-brand .logo{
+    width: 200px;
+}
+
+.start-writing{
+    background-color: white;
+    border-radius: 30px;
+    width: 120px;
+    height: 44px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+.nav-border{
+    height: 1px;
+    width: 100%;
+    border-bottom: 1px solid black;
+    position: absolute;
+    top:80px;
+}
+
+.left-content h1{
+    letter-spacing: -0.05em;
+    line-height: 74px;
+    font-size: 70px;
+    font-weight: 400;
+    font-family: 'prata';
+}
+.left-content p{
+    color: rgba(41, 41, 41, 1);
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 1.2rem;
+
+}
+.no{
+    width: 70%;
+    float: right;
+}
+.second-content-nums{
+    color: lightgray;
+    font-weight: 900;
+    font-size: 2rem;
+}
+.second-content-icon{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+.trend-title{
+    font-weight: 200;
+    font-size: 14px;
+
+}
+.trend-info{
+    font-weight: 100;
+    font-size: 14px;
+
+}
+h6{
+    margin-bottom: 0;
+}
